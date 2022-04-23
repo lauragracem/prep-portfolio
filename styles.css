@@ -34,7 +34,6 @@ html {
   text-decoration: none;
 }
 
-.nav-item,
-.hover {
+.nav-item:hover {
   color: steelblue;
 }
