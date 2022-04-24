@@ -66,3 +66,7 @@ html {
 .text-align-reset {
   text-align: inital;
 }
+
+.tech-section {
+  background-color: gainsboro;
+}
